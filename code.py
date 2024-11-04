@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-file_path = 'path_to_your_file/user_behavior_data.csv'  # Update this with your file path
+file_path = 'data.csv'
 data = pd.read_csv(file_path)
 
 # Display the first few rows of the dataset
