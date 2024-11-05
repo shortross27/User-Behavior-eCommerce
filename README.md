@@ -43,6 +43,10 @@ Purchasing Behavior by Price Range The histogram visualizes user purchasing patt
 
 Highest Selling Brands The bubble chart showcases the top-selling brands based on transaction volume. Samsung and Apple dominate as the leading brands, represented by the largest bubbles. Other significant contributors include Xiaomi and Huawei. This visualization highlights the strong market presence of these key players and reflects their popularity among consumers. The various smaller bubbles represent a diverse range of brands that contribute to overall sales but hold a smaller market share.
 
+![_Top-Performing Product Subcategories_ Sales Above 5,000 Units_](https://github.com/user-attachments/assets/9d4371a8-9aa0-4997-89a6-f307030ec089)
+
+The "Top Performing Products" graph highlights sales data for product categories with over 2,000 sales. Smartphones lead with 196,260 sales, significantly outperforming other categories. Headphones follow with 14,992 sales, and TVs have 11,279 sales. The substantial gap indicates a strong consumer preference for smartphones, suggesting their central role in everyday life, while lower sales for headphones and TVs may reflect market saturation or competition. This analysis underscores the dominance of smartphones in the e-commerce sector.
+
 ![Sales by Day](https://github.com/user-attachments/assets/96a5b9dd-1929-45a0-bad1-2bc3a4eadb88)
 
 The line graph titled "Sales by Day" illustrates the distribution of daily purchases throughout the week. Monday registers the lowest sales at 12.70% of total weekly sales, while Friday sees the highest with 15.31%. Tuesday follows closely with 15.02%. The graph also includes an average sales line, which helps in visualizing deviations from the mean. This data suggests that consumer purchasing behavior peaks towards the end of the week, indicating potential trends for targeted marketing strategies and resource allocation during high-demand days.
@@ -56,6 +60,7 @@ The heat map titled "Sales by Hour" shows the distribution of purchases througho
 - Top-Selling Brands: Dominance by Samsung and Apple, with significant shares by Xiaomi and Huawei.
 - Sales by Day: Friday is the peak sales day (15.31%); Monday has the lowest (12.70%).
 - Sales by Hour: Highest purchasing activity at 8 a.m.; strong demand between 6 a.m. and 10 a.m.
+- Top Performing Products: Smartphones lead with 196,260 sales, followed by headphones (14,992) and TVs (11,279).
 
 
 
