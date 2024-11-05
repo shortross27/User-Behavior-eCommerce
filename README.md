@@ -13,21 +13,21 @@ This project utilizes the User-Behavior eCommerce dataset sourced from Kaggle, w
 ## Tools and Techniques
 For this project, I employed:
 
-- Excel for an initial overview and validation of the data.
-- Python (using libraries such as Pandas, Seaborn, and Matplotlib) for exploratory data analysis, creating bar plots, scatter plots, and generating insights.
-- Tableau for developing an interactive dashboard to visualize trends and findings effectively.
+- **Excel** for an initial overview and validation of the data.
+- **Python** (using libraries such as Pandas, Seaborn, and Matplotlib) for exploratory data analysis, creating bar plots, scatter plots, and generating insights.
+- **Tableau** for developing an interactive dashboard to visualize trends and findings effectively.
 
 
 ## Data Overview
 The dataset used in this project consists of user interactions on an eCommerce platform and includes 546,599 records with the following attributes:
 
-- event_time: The timestamp of each user interaction.
-- event_type: The type of user action (e.g., view, purchase).
-- product_id: A unique identifier for each product.
-- category: Product category and subcategory information.
-- price: The price of each product.
-- user_id: A unique identifier for each user.
-- is_purchased: A binary indicator of whether the product was purchased.
+- **event_time:** The timestamp of each user interaction.
+- **event_type:** The type of user action (e.g., view, purchase).
+- **product_id:** A unique identifier for each product.
+- **category:** Product category and subcategory information.
+- **price:** The price of each product.
+- **user_id:** A unique identifier for each user.
+- **is_purchased:** A binary indicator of whether the product was purchased.
 
 This data allowed for analyzing trends in purchasing behavior, user engagement with different product categories, and the relationship between price and purchase frequency.
 
@@ -67,11 +67,11 @@ This data allowed for analyzing trends in purchasing behavior, user engagement w
 **Sales by Hour** The heatmap shows the distribution of purchases throughout the week at different times of the day. The highest number of purchases occurs at 8 a.m., marked by the darkest region on the map. The time range from 6 a.m. to 10 a.m. is particularly dense, indicating a significant volume of sales. After this peak period, the purchasing activity gradually decreases throughout the day in each direction. This trend highlights early morning as the most active purchasing window across the week.
 
 ## Key Findings
-- Purchasing Behavior by Price Range: High consumer interest in budget (<$100) and mid-tier ($300-$400, $900-$1000) price ranges.
-- Top-Selling Brands: Dominance by Samsung and Apple, with significant shares by Xiaomi and Huawei.
-- Sales by Day: Friday is the peak sales day (15.31%); Monday has the lowest (12.70%).
-- Sales by Hour: Highest purchasing activity at 8 a.m.; strong demand between 6 a.m. and 10 a.m.
-- Top Performing Products: Smartphones lead with 196,260 sales, followed by headphones (14,992) and TVs (11,279).
+- **Purchasing Behavior by Price Range:** High consumer interest in budget (<$100) and mid-tier ($300-$400, $900-$1000) price ranges.
+- **Top-Selling Brands:** Dominance by Samsung and Apple, with significant shares by Xiaomi and Huawei.
+- **Sales by Day:** Friday is the peak sales day (15.31%); Monday has the lowest (12.70%).
+- **Sales by Hour:** Highest purchasing activity at 8 a.m.; strong demand between 6 a.m. and 10 a.m.
+- **Top Performing Products:** Smartphones lead with 196,260 sales, followed by headphones (14,992) and TVs (11,279).
 
 
 
@@ -86,4 +86,9 @@ This eCommerce purchasing behavior analysis highlights key trends and insights t
 
 
 ## Future Work
-To expand on this eCommerce analysis, future work could include integrating customer demographics to better understand purchasing preferences across age and gender. Adding a time-series analysis to capture seasonal trends and incorporating sentiment analysis of customer reviews could enhance understanding of product appeal. Further segmentation by customer location would offer insights into regional purchasing habits. Additionally, applying predictive modeling could forecast future sales and identify potential product recommendations, boosting targeted marketing and inventory management.
+To expand on this eCommerce analysis, future work could include: 
+- Integrating customer demographics to better understand purchasing preferences across age and gender.
+- Adding a time-series analysis to capture seasonal trends.
+- Incorporating sentiment analysis of customer reviews could enhance understanding of product appeal.
+- Segmenting by customer location would offer insights into regional purchasing habits.
+- Applying predictive modeling could forecast future sales and identify potential product recommendations.
