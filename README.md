@@ -60,12 +60,14 @@ The heat map titled "Sales by Hour" shows the distribution of purchases througho
 
 
 ## Tableau Dashboard
+![User-Behavior eCommerce Sales](https://github.com/user-attachments/assets/d7db909e-a2a8-418d-bcc8-e2e75c716deb)
+
 Link to the Tableau dashboard: [User Behavior eCommerce](https://public.tableau.com/app/profile/tyler.ross7761/viz/User-BehavioreCommerce/Dashboard1#1)
 
 
 ## Conclusions
-Summarize insights gained, potential business implications, and strategies for improvement.
+This eCommerce purchasing behavior analysis highlights key trends and insights that can inform strategic decisions. The most frequent purchases are within the lower price range, especially under $100, indicating a preference for affordable items. Samsung and Apple are the most prominent brands, demonstrating significant market share. Sales activity peaks on Fridays and during morning hours, with 8 a.m. showing the highest transaction rate. Understanding these patterns can help businesses tailor their marketing strategies, optimize stock management, and schedule promotions to maximize sales and customer engagement.
 
 
 ## Future Work
-Discuss additional analyses or features that could be added in future iterations.
+To expand on this eCommerce analysis, future work could include integrating customer demographics to better understand purchasing preferences across age and gender. Adding a time-series analysis to capture seasonal trends and incorporating sentiment analysis of customer reviews could enhance understanding of product appeal. Further segmentation by customer location would offer insights into regional purchasing habits. Additionally, applying predictive modeling could forecast future sales and identify potential product recommendations, boosting targeted marketing and inventory management.
