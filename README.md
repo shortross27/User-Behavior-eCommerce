@@ -9,4 +9,8 @@ This project utilizes the User-Behavior eCommerce dataset sourced from Kaggle, w
 - Explore the relationship between user behavior and sales performance.
 
 ## Tools and Techniques
-For this project, I will employ Excel for data cleaning, SQL for data extraction and aggregation, Python (using Pandas and Matplotlib) for exploratory data analysis, and Tableau for data visualization.
+For this project, I employed:
+
+- Excel for an initial overview and validation of the data.
+- Python (using libraries such as Pandas, Seaborn, and Matplotlib) for exploratory data analysis, creating bar plots, scatter plots, and generating insights.
+- Tableau for developing an interactive dashboard to visualize trends and findings effectively.
