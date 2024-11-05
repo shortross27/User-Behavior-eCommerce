@@ -36,24 +36,35 @@ This data allowed for analyzing trends in purchasing behavior, user engagement w
 
 ![Purchasing Behavior by Price Range (1)](https://github.com/user-attachments/assets/a5646087-3812-4861-9484-be3a7773da4f)
 
-Purchasing Behavior by Price Range The histogram visualizes user purchasing patterns segmented by price range. The majority of purchases are concentrated in the lower price ranges, particularly under $100, with a notable spike at around $150. This suggests that users are more inclined to make purchases in the affordable category. Purchases become less frequent as prices increase, indicating lower demand for higher-priced items.
+**Purchasing Behavior by Price Range** The histogram visualizes user purchasing patterns segmented by price range. The majority of purchases are concentrated in the lower price ranges, particularly under $100, with a notable spike at around $150. This suggests that users are more inclined to make purchases in the affordable category. Purchases become less frequent as prices increase, indicating lower demand for higher-priced items.
 
+&nbsp;
+&nbsp;
 
 ![Highest Selling Brands (1)](https://github.com/user-attachments/assets/bd5a15b2-26a2-4592-9ce4-c0b074f62640)
 
-Highest Selling Brands The bubble chart showcases the top-selling brands based on transaction volume. Samsung and Apple dominate as the leading brands, represented by the largest bubbles. Other significant contributors include Xiaomi and Huawei. This visualization highlights the strong market presence of these key players and reflects their popularity among consumers. The various smaller bubbles represent a diverse range of brands that contribute to overall sales but hold a smaller market share.
+**Highest Selling Brands** The bubble chart showcases the top-selling brands based on transaction volume. Samsung and Apple dominate as the leading brands, represented by the largest bubbles. Other significant contributors include Xiaomi and Huawei. This visualization highlights the strong market presence of these key players and reflects their popularity among consumers. The various smaller bubbles represent a diverse range of brands that contribute to overall sales but hold a smaller market share.
+
+&nbsp;
+&nbsp;
 
 ![_Top-Performing Product Subcategories_ Sales Above 5,000 Units_](https://github.com/user-attachments/assets/9d4371a8-9aa0-4997-89a6-f307030ec089)
 
-The "Top Performing Products" graph highlights sales data for product categories with over 2,000 sales. Smartphones lead with 196,260 sales, significantly outperforming other categories. Headphones follow with 14,992 sales, and TVs have 11,279 sales. The substantial gap indicates a strong consumer preference for smartphones, suggesting their central role in everyday life, while lower sales for headphones and TVs may reflect market saturation or competition. This analysis underscores the dominance of smartphones in the e-commerce sector.
+**Top Performing Products** This graph highlights sales data for product categories with over 2,000 sales. Smartphones lead with 196,260 sales, significantly outperforming other categories. Headphones follow with 14,992 sales, and TVs have 11,279 sales. The substantial gap indicates a strong consumer preference for smartphones, suggesting their central role in everyday life, while lower sales for headphones and TVs may reflect market saturation or competition. This analysis underscores the dominance of smartphones in the e-commerce sector.
+
+&nbsp;
+&nbsp;
 
 ![Sales by Day](https://github.com/user-attachments/assets/96a5b9dd-1929-45a0-bad1-2bc3a4eadb88)
 
-The line graph titled "Sales by Day" illustrates the distribution of daily purchases throughout the week. Monday registers the lowest sales at 12.70% of total weekly sales, while Friday sees the highest with 15.31%. Tuesday follows closely with 15.02%. The graph also includes an average sales line, which helps in visualizing deviations from the mean. This data suggests that consumer purchasing behavior peaks towards the end of the week, indicating potential trends for targeted marketing strategies and resource allocation during high-demand days.
+**Sales by Day** illustrates the distribution of daily purchases throughout the week. Monday registers the lowest sales at 12.70% of total weekly sales, while Friday sees the highest with 15.31%. Tuesday follows closely with 15.02%. The graph also includes an average sales line, which helps in visualizing deviations from the mean. This data suggests that consumer purchasing behavior peaks towards the end of the week, indicating potential trends for targeted marketing strategies and resource allocation during high-demand days.
+
+&nbsp;
+&nbsp;
 
 ![Sales by Hour](https://github.com/user-attachments/assets/f802f4bd-fcbb-4057-952f-e23e079ac8f9)
 
-The heat map titled "Sales by Hour" shows the distribution of purchases throughout the week at different times of the day. The highest number of purchases occurs at 8 a.m., marked by the darkest region on the map. The time range from 6 a.m. to 10 a.m. is particularly dense, indicating a significant volume of sales. After this peak period, the purchasing activity gradually decreases throughout the day in each direction. This trend highlights early morning as the most active purchasing window across the week.
+**Sales by Hour** The heatmap shows the distribution of purchases throughout the week at different times of the day. The highest number of purchases occurs at 8 a.m., marked by the darkest region on the map. The time range from 6 a.m. to 10 a.m. is particularly dense, indicating a significant volume of sales. After this peak period, the purchasing activity gradually decreases throughout the day in each direction. This trend highlights early morning as the most active purchasing window across the week.
 
 ## Key Findings
 - Purchasing Behavior by Price Range: High consumer interest in budget (<$100) and mid-tier ($300-$400, $900-$1000) price ranges.
